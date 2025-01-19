@@ -1,8 +1,6 @@
 document.getElementById('copyButton').addEventListener('click', function() {
 
-    const discordInvite = 'https://discord.gg/Wgw9uG2CPJ';
-
-
+    const discordInvite = 'https://discord.gg/EMcDaqQHKQ';
     const tempInput = document.createElement('input');
     tempInput.value = discordInvite;
 
